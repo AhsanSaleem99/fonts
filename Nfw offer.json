@@ -1,1 +1,12 @@
-
+{
+  "active": true,
+  "end_date": "2026-08-09T23:59:59Z",
+  "title_en": "Early Bird Offer",
+  "title_ur": "ابتدائی پیشکش",
+  "headline_en": "Buy 4 years, get 1 year FREE",
+  "headline_ur": "4 سال خریدیں، 1 سال مفت حاصل کریں",
+  "price_pk": "Rs. 6,000",
+  "price_intl": "$32 USD",
+  "duration_label_en": "for 5 years",
+  "duration_label_ur": "5 سال کے لیے"
+}
