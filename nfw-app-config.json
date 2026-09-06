@@ -14,4 +14,9 @@
   "price_intl": "$32 USD",
   "duration_label_en": "for 5 years",
   "duration_label_ur": "5 سال کے لیے"
+  "changelog": {
+    "8.1": {
+      "en": "Fixed Arabic and Persian input support, added a new language picker (Alt+I), and squashed several bugs on X.com.",
+      "ur": "عربی اور فارسی ان پٹ کو ٹھیک کیا، نیا لینگویج پکر شامل کیا، اور X.com پر کئی بگز درست کیے۔"
+    },
 }
