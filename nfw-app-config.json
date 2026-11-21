@@ -16,9 +16,7 @@
   "duration_label_ur": "5 سال کے لیے",
   "changelog": {
     "8.1": {
-      "en": {
-        "New Features: \nInput tool now supports Arabic and Persian. \nQuranic surah and verses can now be added using input tool in Urdu, Arabic and Persian mode. \n"
-      },
+      "en": "New Features: \nInput tool now supports Arabic and Persian. \nQuranic surah and verses can now be added using input tool in Urdu, Arabic and Persian mode. \n",
       "ur": "عربی اور فارسی ان پٹ کو ٹھیک کیا، نیا لینگویج پکر شامل کیا، اور X.com پر کئی بگز درست کیے۔"
     }
   }
