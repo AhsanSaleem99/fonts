@@ -17,8 +17,7 @@
   "changelog": {
     "8.1": {
       "en": {
-        "New Features:",
-      "Fixed Arabic and Persian input support, added a new language picker (Alt+I), and squashed several bugs on X.com."
+        "New Features: \nInput tool now supports Arabic and Persian. \nQuranic surah and verses can now be added using input tool in Urdu, Arabic and Persian mode. \n"
       },
       "ur": "عربی اور فارسی ان پٹ کو ٹھیک کیا، نیا لینگویج پکر شامل کیا، اور X.com پر کئی بگز درست کیے۔"
     }
