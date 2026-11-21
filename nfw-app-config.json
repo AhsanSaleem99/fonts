@@ -16,7 +16,7 @@
   "duration_label_ur": "5 سال کے لیے",
   "changelog": {
     "8.1": {
-      "en": "New Features: <br> • Input tool now supports Arabic and Persian. <br> • Quranic surah and verses can now be added using input tool in Urdu, Arabic and Persian mode. <br> • ",
+      "en": "<div style='text-align:left'>New Features:<ul style='margin:4px 0 0;padding-left:18px'><li>Input tool now supports Arabic and Persian.</li><li>Quranic surah and verses can now be added using the input tool in Urdu, Arabic and Persian mode.</li><li>Writing the first two words of a Quran verse also gives the entire verse suggestions.</li><li>Improved the font change to make it more efficient.</li><li>Added the writing board tool (Pro Only) for taking notes or writing blogs or articles</li><li>Added a proofreading tool (Pro Only) for correcting written mistakes for Input tool modes.</li><li>Added the (About Us) option in the settings menu to connect with our socials</li><li>Added the (Rate Us) option to help users rate the extension. This will help developer a lot.</li></ul></div>",
       "ur": "عربی اور فارسی ان پٹ کو ٹھیک کیا، نیا لینگویج پکر شامل کیا، اور X.com پر کئی بگز درست کیے۔"
     }
   }
